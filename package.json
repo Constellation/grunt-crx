@@ -31,7 +31,7 @@
     "test-fast": "mocha --reporter list"
   },
   "dependencies": {
-    "crx": "~0.4.0"
+    "crx": "git+https://github.com/Constellation/crx.git#2e438bafaa78c6489758b874185598a13ce8f41e"
   },
   "devDependencies": {
     "grunt": "~0.4.0",
